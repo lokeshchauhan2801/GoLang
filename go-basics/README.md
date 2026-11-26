@@ -12,6 +12,7 @@ Small Go programs from the Auriga Go course (Chapters 3–7).
 | `cmd/wordfreq` | `go run ./cmd/wordfreq cmd/wordfreq/testdata/sample.txt` |
 | `cmd/sliceshare` | `go run ./cmd/sliceshare` |
 | `cmd/shapes` | `go run ./cmd/shapes` |
+| `cmd/calc` | `go run ./cmd/calc 10 / 2` (use `x` or `'*'` for multiply) |
 
 Check: `go vet ./...` and `go test ./...`
 
