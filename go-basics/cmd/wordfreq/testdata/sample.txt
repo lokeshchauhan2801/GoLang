@@ -1,0 +1,5 @@
+Go is an open source programming language that makes it simple to build
+secure, scalable systems. Go is fast, and Go is fun. The Go compiler is fast,
+the Go tooling is simple, and the Go standard library is large. A map in Go
+has no order, so to sort words by count we copy the keys of the map into a
+slice and sort the slice. The slice is ordered; the map is not.
