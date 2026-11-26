@@ -11,6 +11,7 @@ Small Go programs from the Auriga Go course (Chapters 3–7).
 | `cmd/variadic` | `go run ./cmd/variadic` |
 | `cmd/wordfreq` | `go run ./cmd/wordfreq cmd/wordfreq/testdata/sample.txt` |
 | `cmd/sliceshare` | `go run ./cmd/sliceshare` |
+| `cmd/shapes` | `go run ./cmd/shapes` |
 
 Check: `go vet ./...` and `go test ./...`
 
